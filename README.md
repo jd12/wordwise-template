@@ -82,3 +82,10 @@ Here is the code we're going to light up the title if the user wins
   }
 }
 ```
+## API Links
+
+**GET request - Used to fetch the word of the day**
+https://words.dev-apis.com/word-of-the-day
+
+**POST request - Used to validate a word**
+https://words.dev-apis.com/validate-word
